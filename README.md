@@ -1,4 +1,4 @@
-# Example Markdown Code of a Template Standard ```README.md``` 
+# Deliveroo Clone Using React Native
 
 ``` markdown
 # Deliveroo Clone
